@@ -33,7 +33,7 @@ más completo de las operaciones del negocio.
 
 ### Aplicaciones similares
 
-- [[inflowinventory](https://www.inflowinventory.com/)]
+- [inflowinventory](https://www.inflowinventory.com/)
 - [zohoinventory](https://www.zoho.com/inventory/)
 
 
