@@ -33,8 +33,7 @@ más completo de las operaciones del negocio.
 
 ### Aplicaciones similares
 
-- [Apple Podcasts](https://apps.apple.com/es/app/apple-podcasts/id525463029)
-- [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=es_CO&gl=US)
-- [Podcasts Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=es_CO&gl=US)
-- [Stitcher](https://play.google.com/store/apps/details?id=com.stitcher.app&hl=es_CO&gl=US)
+- [[inflowinventory](https://www.inflowinventory.com/)]
+- [zohoinventory](https://www.zoho.com/inventory/)
+
 
