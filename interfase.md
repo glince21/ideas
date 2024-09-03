@@ -12,17 +12,23 @@ presentan las principales pantallas:
 
    Cuando el usuario ingrese a la aplicaicón verá una serie de botones los cuales guiaran al usuario a lo que desea.
 
-   ![Lista de podcasts](imagenes/1.jpg)
+   ![pag](imagenes/1.jpg)
 
-2. Episodios de un Podcast
+2. Gestionar productos
 
-   Al seleccionar un Podcats, el usuario verá la lista de episodios de ese podcasts y podrá
-   reproducirlos.
+   En esta pagina se hace la actualizacion del inventario, se pueden eliminar productos y editar productos ya agregados.
 
-   ![Lista de episodios](images/EpisodesPlaying.png)
+   ![pag](imagenes/2.jpg)
 
-3. Búsqueda podcasts
+3. Stok
 
-   Adicionalmente el usuario podrá buscar los Podcasts de su interes usando palabras clave.
+   Muestra la lista de productos, cantidad y pecio y un icono de alerta en el que al momento de que aparezca la alerta dira
+   que producto esta por acabarse.
 
-   ![Búsqueda](images/Search.png)
+   ![pag](imagenes/3.jpg)
+
+4. Historial de ventas
+
+   Muestra la lista de ventas en el cual aparece fecha, cliente, productos y el valor de la compra.
+
+   ![pag](imagenes/4.jpg)
