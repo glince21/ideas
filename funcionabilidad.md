@@ -2,7 +2,7 @@
 
 Funcionalidades Clave
 1. Gestión de Productos:
-   Agregar nuevos productos: Crear entradas detalladas para nuevos productos con campos como nombre, descripción, categoría, código de barras, precio y cantidad en stock.
+   Agregar nuevos productos: Crear entradas detalladas para nuevos productos con campos como nombre, descripción, categoría, precio y cantidad en stock.
    Editar productos existentes: Permite actualizar la información de los productos almacenados, incluyendo cambios en el precio, descripción o cantidad.
    Eliminar productos: Opción para eliminar productos del inventario cuando ya no sean necesarios o estén descontinuados.
 
