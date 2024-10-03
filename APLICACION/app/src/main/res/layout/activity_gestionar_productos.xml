@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btn_agregar_producto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agregar Producto"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="@android:color/black"/>
+
+    <Button
+        android:id="@+id/btn_eliminar_producto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Eliminar Producto"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="@android:color/black"/>
+
+    <Button
+        android:id="@+id/btn_editar_producto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Editar Producto"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="@android:color/black"/>
+
+    <Button
+        android:id="@+id/btn_regresar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Regresar"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="@android:color/black"/>
+</LinearLayout>

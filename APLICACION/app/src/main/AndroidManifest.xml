@@ -1,0 +1,35 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.inventuan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Inventuan">
+
+        <!-- Main Activity (Página principal) -->
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Gestionar Productos Activity -->
+        <activity android:name=".GestionarProductosActivity"
+            android:exported="false" />
+
+        <!-- Stock Activity -->
+        <activity android:name=".StockActivity"
+            android:exported="false" />
+
+        <!-- Historial de Ventas Activity -->
+        <activity android:name=".HistorialVentasActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>
