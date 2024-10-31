@@ -5,7 +5,7 @@ Se proponen las siguientes ideas de aplicación para el proyecto:
 ## Idea 1: APP Para manejo de inventarios 
 
 
-INVETUAN es una aplicación de manejo de inventarios es una solución digital diseñada para facilitar
+Aplicación de manejo de inventarios es una solución digital diseñada para facilitar
 la gestión eficiente de inventarios en pequeñas y medianas empresas. Con una interfaz intuitiva y funcionalidades clave, 
 permite a los usuarios controlar y supervisar el stock de productos, asegurando que la empresa pueda optimizar sus
 procesos de inventario, minimizar errores y mejorar la toma de decisiones basada en datos.
