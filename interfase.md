@@ -5,7 +5,7 @@ tipo de usuario.
 
 El diseño completoe esta disponible
 en [Figma](https://www.figma.com/design/1Dtsl2vgyKPK9yatnmEmg0/INVENTUAN?node-id=0-1&t=8dGwlGEVP1JKmZIW-1)
-. Los colores a usar estar[an basados en una combinación de escalas de blanco. A continuación se
+. Los colores a usar estaran basados en una combinación de escalas de blanco. A continuación se
 presentan las principales pantallas:
 
 1. Pagina principal
