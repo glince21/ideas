@@ -16,19 +16,19 @@ presentan las principales pantallas:
 
 2. Gestionar productos
 
-   En esta pagina se hace la actualizacion del inventario, se pueden eliminar productos y editar productos ya agregados.
+   En esta pagina se hace la actualizacion del inventario, se pueden agregar y eliminar productos ya agregados.
 
    ![pag](imagenes/2.jpg)
 
 3. Stok
 
-   Muestra la lista de productos, cantidad y pecio y un icono de alerta en el que al momento de que aparezca la alerta dira
+   Muestra la lista de productos, cantidad y categoria y un icono de alerta en el que al momento de que aparezca la alerta dira
    que producto esta por acabarse.
 
    ![pag](imagenes/3.jpg)
 
 4. Historial de ventas
-
+   ESTO SE CONECTARA CON UNA TIENDA, LA CUAL NOS BRINDARA ESA INFORMACION.
    Muestra la lista de ventas en el cual aparece fecha, cliente, productos y el valor de la compra.
 
    ![pag](imagenes/4.jpg)
